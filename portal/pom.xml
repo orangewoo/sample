@@ -68,7 +68,7 @@
 		<dependency>
 			<groupId>egovframework.rte</groupId>
 			<artifactId>egovframework.rte.fdl.security</artifactId>
-			<version>${egovframework.rte.version}</version>
+			<version>3.0.1</version>
 			<exclusions>
 				<exclusion>
 					<artifactId>spring-jdbc</artifactId>
